@@ -17,7 +17,7 @@
         <nav>
         <!--logo-->
             <div class="logo color-blanco"> 
-                <img src="img/logo nuevo.png"  alt="logo" title="logo">
+                <img src="assets/img/logo nuevo.png"  alt="logo" title="logo">
             </div>
             <!-- menu -->
             <div class="menu"> 
@@ -40,7 +40,7 @@
               <div class="port-col-izq color-gris-oscuro">
                 <h2 class="borde subtitulo">Tablas</h2>
                 <div class="borde imagen">
-                  <img src="img/30659.png"  alt="card" title="card"/>
+                  <img src="assets/img/30659.png"  alt="card" title="card"/>
                 </div>
                 <p class="parrafo borde">
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -57,7 +57,7 @@
               <div class="port-col-cnt color-">
                 <h2 class="borde subtitulo">Alertas</h2>
                 <div class="borde imagen">
-                  <img src="img/30659.png"  alt="card" title="card" />
+                  <img src="assets/img/30659.png"  alt="card" title="card" />
                 </div>
                 <p class="parrafo borde">
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
@@ -74,7 +74,7 @@
               <div class="port-col-der color-gris-claro">
                 <h2 class="borde subtitulo">Filtros</h2>
                 <div class="borde imagen">
-                  <img src="img/30659.png"  alt="card" title="card"/>
+                  <img src="assets/img/30659.png"  alt="card" title="card"/>
                 </div>
                 <p class="parrafo borde">
                   Lorem ipsum dolor, sit amet consectetur adipisicing elit.
