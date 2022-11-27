@@ -1,5 +1,5 @@
- <!-- Migas de Pan -->
- <div class="migas row d-flex align-items-center bg-light border-bottom">
+  <!-- Migas de Pan -->
+  <div class="migas row d-flex align-items-center bg-light border-bottom">
             <div class="col p-0">
                 <div aria-label="breadcrumb">
                     <ol class="breadcrumb rounded-0 m-0 p-2 bg-light">
@@ -26,10 +26,10 @@
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item"><a href="?c=Users&a=createRol" class="card-link">Crear Rol</a>
                             </li>
-                            <li class="list-group-item"><a href="" class="card-link">Crear usuarios</a>
+                            <li class="list-group-item"><a href="?c=Users&a=readRol" class="card-link">Consultar Roles</a></li>
+                            <li class="list-group-item"><a href="?c=Users&a=createUser" class="card-link">Crear usuarios</a>
                             </li>
-                            <li class="list-group-item"><a href="" class="card-link">Consultar
-                                    Usuarios</a></li>
+                            <li class="list-group-item"><a href="?c=Users&a=readUser" class="card-link">Consultar Usuarios</a></li>
                         </ul>
                     </div>
                 </div>
